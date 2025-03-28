@@ -1,6 +1,6 @@
-""" Módulo criar_pastas.py
+""" Módulo organizacao.py
 Programa: Projeto Final
-Descrição: Este módulo cria subpastas no diretorio atual, e organiza os arquivos dentro de cada uma, conforme sua extensao.
+Descrição: Este módulo cria subpastas no diretorio atual, definido no modulo anterior, e organiza os arquivos dentro de cada uma, conforme sua extensao.
 Autor: Vinicius Caregnato Garcia
 Versão: 0.0.1
 Data: 22/03/2025
