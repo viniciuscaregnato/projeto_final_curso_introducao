@@ -1,7 +1,6 @@
 """ Módulo criar_pastas.py
 Programa: Projeto Final
-Descrição: Sua tarefa é organizar os arquivos "orcamento.xls", "orcamento.docx", "clientes.xls" e 
-"clientes.doc" e "relatorio.doc" nas pastas planilhas e documentos de acordo com a extensão do arquivo.
+Descrição: Este módulo cria subpastas no diretorio atual, e organiza os arquivos dentro de cada uma, conforme sua extensao.
 Autor: Vinicius Caregnato Garcia
 Versão: 0.0.1
 Data: 22/03/2025
